@@ -5,3 +5,6 @@ En el ámbito del deporte y la educación física, se entiende por flexibilidad 
 
 ## Beneficios
 Puede ayudarnos a mejorar nuestro rendimiento físico y a reducir el riesgo de padecer alguna lesión. Cuanto mayor sea la capacidad de nuestros músculos para alargarse, mayor será su rango de movimiento articular, además de necesitar menos energía para realizar este recorrido.
+
+## Instrucciones
+La flexibilidad ayuda a la coordinación, por lo que tendremos menos probabilidades de tener caídas, además da a las articulaciones una capacidad de moverse en su rango completo, lo que permite, sobre todo con la edad, estar más activo, ágil, y tener menos posibilidades de lesión.
