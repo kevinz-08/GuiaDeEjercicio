@@ -13,3 +13,7 @@ El entrenamiento funcional se caracteriza por adaptarse a los movimientos natura
 - Promueve la coordinación y la capacidad de reacción.
 - Trabajamos el centro de la gravedad.
 - Patrones de movimiento eficientes.
+
+## Consejos
+- El entrenamiento funcional se centra en movimientos que imitan las actividades diarias, como levantar una caja, coger una maleta o correr a por el autobús. Al entrenar estos patrones de movimiento, haremos las tareas del día a día con mayor facilidad y menos esfuerzo, mejorando nuestra calidad de vida.
+- Haz al menos 150 minutos de actividad aeróbica moderada a la semana. O bien, haz al menos 75 minutos de actividad aeróbica vigorosa por semana. También, puedes hacer una combinación equivalente de actividad moderada y vigorosa. Intenta repartir este ejercicio a lo largo de varios días o más en una semana.
