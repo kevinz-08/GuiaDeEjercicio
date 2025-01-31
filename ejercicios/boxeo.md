@@ -11,3 +11,12 @@ El boxeo es una forma de combate cuerpo a cuerpo sin armas en el que un deportis
 - Fortalecimiento de los músculos. ...
 - Impacto en la salud ósea. ...
 - Mejora de la estabilidad y el equilibrio.
+
+## Instrucciones
+- No alterar los guantes con yeso o materiales que los endurezcan.
+- No se debe patear al contrincante.
+- No se debe golpear la nuca o detrás de la cabeza.
+- No se debe dar la espalda al contrincante.
+- No se admiten golpes bajos .
+- No se deben causar tropiezos..
+- No se deben dar cabezazos intencionalmente.
