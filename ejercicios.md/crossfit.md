@@ -19,3 +19,13 @@ Estudiar el cuerpo humano bajo diferentes situaciones de estrés
 - Aporta concentración y motivación extra. ...
 - Reduce el nivel de estrés. ...
 - Aumenta las relaciones sociales.
+
+## Instrucciones
+Cuáles son los ejercicios que se hacen en crossfit:
+- Levantamiento de pesas.
+- Gimnasia.
+- Cardiovascular y movimientos dinámicos.
+- Trabajo con Kettlebells y balón medicinal.
+- Gimnasia olímpica.
+- Resistencia y cargas desplazadas.
+- Movilidad y flexibilidad.
