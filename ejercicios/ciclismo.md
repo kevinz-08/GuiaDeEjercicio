@@ -12,3 +12,16 @@ El ciclismo es el deporte que se desarrolla sobre una bicicleta. De acuerdo a su
 - Fortalece los músculos.
 - Ahorrás en combustible.
 - Disminuye la ansiedad.
+
+## Instrucciones
+Las instrucciones de ciclismo son reglas que los ciclistas deben seguir para circular de manera segura. Entre ellas se encuentran: 
+- Respetar los semáforos y los pasos de peatones
+- Ceder el paso a los peatones
+- Circular en la dirección indicada en las calles de un solo sentido
+- Señalar al hacer un giro
+- Usar casco
+- Utilizar luces en condiciones de baja visibilidad
+- Mantenerse a la derecha del carril
+- Manejar con precaución y sin zigzaguear
+- Cumplir las normas de tránsito, señales y límites de velocidad
+- Utilizar las señales manuales de un ciclista para cambiar de carril y cruzar
